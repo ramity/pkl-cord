@@ -1,0 +1,5 @@
+<h1 align="center">PKL-Cord</h1>
+
+![splash-image](./docs/assets/splash.png)
+
+<blockquote align="center">"I turned my discord into a pickle, Morty."</blockquote>

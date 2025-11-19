@@ -1,0 +1,18 @@
+services:
+
+  pkl_discord:
+    build:
+      context: ./
+      dockerfile: docker/python/Dockerfile
+    container_name: pkl_discord
+    image: pkl_discord
+    env_file:
+    - ./docker/python/.env
+    volumes:
+    - ./src:/code
+    - ./data:/data
+
+networks:
+  default:
+    name: pkl_network
+    driver: bridge
