@@ -2,4 +2,4 @@
 
 ![splash-image](./docs/assets/splash.png)
 
-<blockquote align="center">"I turned my discord into a pickle, Morty."</blockquote>
+> "I turned my discord into a pickle, Morty."
